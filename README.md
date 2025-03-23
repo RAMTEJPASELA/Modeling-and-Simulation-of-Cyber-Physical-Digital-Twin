@@ -8,7 +8,7 @@ By applying advanced fault detection and protection mechanisms, this project off
 
 ## 🎥 **Video Demonstration**  
 Watch how the **CPDT system** detects and responds to faults in real time:  
-[Watch the Video](https://youtu.be/1SOuRba_OvU)  
+[Watch the Video](https://youtu.be/wIhd6TCpo74)  
 
 ## 📧 **Contact Me**  
 - **Email:** [ramtejpasela@gmail.com](mailto:ramtejpasela@gmail.com)  
