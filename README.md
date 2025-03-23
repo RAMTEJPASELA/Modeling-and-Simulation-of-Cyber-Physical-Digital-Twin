@@ -1,4 +1,4 @@
-# ⚡ Modeling and Simulation of a Cyber-Physical Digital Twin (CPDT) for Bus Fault Management 
+# 🔎 Modeling and Simulation of a Cyber-Physical Digital Twin (CPDT) for Bus Fault Management 
 
 This project presents a **Cyber-Physical Digital Twin (CPDT)** framework designed using **MATLAB Simulink** and **Arduino** for real-time fault detection and protection in a simulated **3-bus IEEE system**. By leveraging **positive sequence current component analysis**, the system effectively detects and identifies faults, enabling swift and precise fault isolation. The integration of Arduino hardware and LEDs provides a practical demonstration of the fault detection and response process, enhancing its educational and operational value.  
 
